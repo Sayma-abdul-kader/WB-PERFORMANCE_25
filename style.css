@@ -1,0 +1,25 @@
+p{
+    color: blue;
+}
+.test{
+     color: green;
+}
+#first{
+    color: red;
+}
+div .test{
+    color: greenyellow;
+}
+div.main p.test{
+    color: aqua;
+}
+div.min p.test{
+    color: aqua !important;
+}
+
+.round{
+    height: 150px;
+    width: 150px;
+    border: 6px ridge rgb(23, 62, 152);
+    border-radius: 50%;
+}
